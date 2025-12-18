@@ -1,6 +1,5 @@
 # Machine-Ordering-App
 The Machine Ordering Application is a low-code business application developed using Microsoft Power Apps to digitize and simplify the process of ordering industrial machines. The app allows users to browse machines, place orders, track order status, and manage machine-related data efficiently. 
-<img width="1464" height="904" alt="image" src="https://github.com/user-attachments/assets/bfc07760-3948-4e9f-a874-361572a78d3c" />
 
 🎯 Project Objectives
 
@@ -64,6 +63,9 @@ Role-based access (User / Admin)
 Displays machine name, category, price, and specifications
 
 Easy navigation and selection
+Screen 1 : The Main Screen
+<img width="1224" height="743" alt="image" src="https://github.com/user-attachments/assets/12886018-29a6-4790-8bd1-52f02151b395" />
+
 
 3️⃣ Order Management
 
@@ -72,6 +74,9 @@ Users can place new orders
 Automatic order ID generation
 
 Quantity and pricing calculation
+Screen 2: Comparing Screen 
+<img width="1439" height="806" alt="image" src="https://github.com/user-attachments/assets/4db047fb-0f58-46da-8ebf-c05f821e7e22" />
+
 
 4️⃣ Admin Panel
 
@@ -94,6 +99,9 @@ Order is stored in the database
 Admin reviews and updates order status
 
 User tracks order progress
+ Workflow Diagram: The Tree Structure of the Components
+ <img width="333" height="811" alt="image" src="https://github.com/user-attachments/assets/2f99f59d-906b-4b59-9cbc-20fc982044be" />
+
 
 🧮 Business Logic (Power Fx)
 
